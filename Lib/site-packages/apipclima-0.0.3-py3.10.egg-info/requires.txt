@@ -1,0 +1,6 @@
+pandas
+numpy
+requests
+xarray
+scipy
+cftime

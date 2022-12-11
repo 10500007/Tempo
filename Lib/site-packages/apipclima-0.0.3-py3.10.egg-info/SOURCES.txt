@@ -1,0 +1,13 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+apipclima.egg-info/PKG-INFO
+apipclima.egg-info/SOURCES.txt
+apipclima.egg-info/dependency_links.txt
+apipclima.egg-info/requires.txt
+apipclima.egg-info/top_level.txt
+pclima/__init__.py
+pclima/api.py
+pclima/factory.py
+pclima/http_util.py
